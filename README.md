@@ -1,1 +1,1 @@
-# SMIt_JS_Assignment
+# SMIT_JS_Assignment
