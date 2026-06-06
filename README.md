@@ -1,1 +1,1 @@
-# SMIT____JS____Assignment"# Smit_JS_Assignment" 
+# SMIT_JS_Assignment
